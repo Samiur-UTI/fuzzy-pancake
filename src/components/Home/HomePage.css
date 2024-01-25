@@ -1,0 +1,19 @@
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .home-logo {
+    width: 10rem; /* Adjust the size as needed */
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .home-details h1 {
+    margin-bottom: 15px;
+  }
+  
+  .home-details p {
+    font-size: 1.1em;
+  }
+  
